@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/learn_parameter/learn_parameter.egg-info/PKG-INFO
+../../build/learn_parameter/learn_parameter.egg-info/SOURCES.txt
+../../build/learn_parameter/learn_parameter.egg-info/dependency_links.txt
+../../build/learn_parameter/learn_parameter.egg-info/entry_points.txt
+../../build/learn_parameter/learn_parameter.egg-info/requires.txt
+../../build/learn_parameter/learn_parameter.egg-info/top_level.txt
+../../build/learn_parameter/learn_parameter.egg-info/zip-safe
+learn_parameter/__init__.py
+learn_parameter/param_declare.py
+learn_parameter/param_object_detect.py
+resource/learn_parameter
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

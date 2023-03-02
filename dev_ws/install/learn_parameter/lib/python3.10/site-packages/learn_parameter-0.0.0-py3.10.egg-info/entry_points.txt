@@ -1,0 +1,4 @@
+[console_scripts]
+param_declare = learn_parameter.param_declare:main
+param_object_detect = learn_param.param_object_detect:main
+

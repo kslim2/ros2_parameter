@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/learn_parameter/learn_parameter.egg-info/PKG-INFO
+writing dependency_links to ../../build/learn_parameter/learn_parameter.egg-info/dependency_links.txt
+writing entry points to ../../build/learn_parameter/learn_parameter.egg-info/entry_points.txt
+writing requirements to ../../build/learn_parameter/learn_parameter.egg-info/requires.txt
+writing top-level names to ../../build/learn_parameter/learn_parameter.egg-info/top_level.txt
+reading manifest file '../../build/learn_parameter/learn_parameter.egg-info/SOURCES.txt'
+writing manifest file '../../build/learn_parameter/learn_parameter.egg-info/SOURCES.txt'
+running build
+running build_py
+copying learn_parameter/param_object_detect.py -> /home/mike/ros2_cool/06-parameter/dev_ws/build/learn_parameter/build/lib/learn_parameter
+running install
+running install_lib
+copying /home/mike/ros2_cool/06-parameter/dev_ws/build/learn_parameter/build/lib/learn_parameter/param_object_detect.py -> /home/mike/ros2_cool/06-parameter/dev_ws/install/learn_parameter/lib/python3.10/site-packages/learn_parameter
+byte-compiling /home/mike/ros2_cool/06-parameter/dev_ws/install/learn_parameter/lib/python3.10/site-packages/learn_parameter/param_object_detect.py to param_object_detect.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/mike/ros2_cool/06-parameter/dev_ws/install/learn_parameter/lib/python3.10/site-packages/learn_parameter-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/learn_parameter/learn_parameter.egg-info to /home/mike/ros2_cool/06-parameter/dev_ws/install/learn_parameter/lib/python3.10/site-packages/learn_parameter-0.0.0-py3.10.egg-info
+running install_scripts
+Installing param_declare script to /home/mike/ros2_cool/06-parameter/dev_ws/install/learn_parameter/lib/learn_parameter
+Installing param_object_detect script to /home/mike/ros2_cool/06-parameter/dev_ws/install/learn_parameter/lib/learn_parameter
+writing list of installed files to '/home/mike/ros2_cool/06-parameter/dev_ws/build/learn_parameter/install.log'
